@@ -6,7 +6,7 @@ Run **test_pam.py**
 
 ## Network Framework
 
-![](figs/wisppn.png)
+![](figs/network.png)
 
 ## An Example
 ![](figs/example.png)
