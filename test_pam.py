@@ -19,7 +19,7 @@ import cv2
 limb = np.array([[0,1],[0,14],[0,15],[14,16],[15,17],[1,2],[1,5],[1,8],[1,11],[2,3],[3,4],[5,6],[6,7],[8,9],[9,10],[11,12],[12,13]])
 
 
-data = hdf5storage.loadmat('E:/alphapose_data/train80singleperson/oct17set1_fw_1814.mat', variable_names={'csi_serial', 'frame'})
+data = hdf5storage.loadmat('exaplmes/oct17set1_fw_1814.mat', variable_names={'csi_serial', 'frame'})
 csi_data = torch.zeros(1, 30*5, 3, 3)
 csi_data[0,:,:,: ]= torch.from_numpy(data['csi_serial']).type(torch.FloatTensor).view(-1, 3, 3)
 frame = data['frame']
