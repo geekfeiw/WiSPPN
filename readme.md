@@ -6,7 +6,7 @@ Run **test_pam.py**
 
 ## Network Framework
 
-![](figs/network.png)
+![](figs/network.jpg)
 
 ## An Example
 ![](figs/example.png)
