@@ -10,3 +10,6 @@ Run **test_pam.py**
 
 ## An Example
 ![](figs/example.png)
+
+## System Build 
+Antennas and Camera codes is at [Person Perception](https://github.com/geekfeiw/wifiperson)
