@@ -15,4 +15,4 @@ Run **test_pam.py**
 ## System Build 
 Please find antennas and camera codes at [Person Perception](https://github.com/geekfeiw/wifiperson)
 
-CSI tool now supports [Ubuntu 16.04/18.04](https://github.com/spanev/linux-80211n-csitool).
+[CSI tool](https://github.com/spanev/linux-80211n-csitool) now supports Ubuntu 18.04.
